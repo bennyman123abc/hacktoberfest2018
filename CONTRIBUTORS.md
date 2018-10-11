@@ -960,3 +960,8 @@ Place: Salvador, Brazil<br/>
 About: Computer Engineer<br/>
 Programming Language: C#, Python<br/>
 Email: leeosena21@gmail.com<br/>
+
+Name: [Ben C.](https://github.com/bennyman123abc)<br/>
+Place: Williamsburg, Virginia<br/>
+About: Senior High School Student<br/>
+Programming Language: Python, C, C++, C#, Java, JavaScript<br/>
